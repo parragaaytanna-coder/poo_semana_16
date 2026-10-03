@@ -1,0 +1,30 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Fetuchini con salsa Alfredo",
+        "categoria": "Platos Fuertes",
+        "precio": 5.5,
+        "stock": 25
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Langostinos al ajillo",
+        "categoria": "Platos Fuertes",
+        "precio": 8.0,
+        "stock": 15
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Champagne 500 ml",
+        "categoria": "Bebidas",
+        "precio": 2.25,
+        "stock": 39
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Pie de Limón",
+        "categoria": "Postres",
+        "precio": 2.5,
+        "stock": 30
+    }
+]
